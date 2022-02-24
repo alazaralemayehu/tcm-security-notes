@@ -29,3 +29,7 @@ We focus on finding information from publicly available resources.
 We interact with the system actively to know about the services and information about our target. Looking for open ports, subdomains, fingerprinting, trying to connect, pinging....
 
 **Target Validation** (WHOIS, nslookup, dnsrecon), **finding subdomains** (Google Fu, dig, Nmap, Bluto, Sublist3r,crt.sh), **Fingerprinting** (Nmap, Wappalyzer, WhatWeb, BuiltWith, Netcat) and **Finding Data Breaches** (HaveIBeenPwned, Breach-Parse, WeLeakInfo)
+
+**Discovering Email addresses:** useful for marketing and phishing.  
+ - Finding the pattern of the email (hunter.io) - Finding exact email address (phonebook.cz) - Check the existence of the email - check forget password to check connected emails.
+Tools - https://www.voilanorbert.com/ - https://phonebook.cz/ - https://hunter.io/ - https://clearbit.com/ - https://tools.emailhippo.com/ (To verify email) - https://email-checker.net/ (To verify email)
