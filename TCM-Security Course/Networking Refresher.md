@@ -1,3 +1,13 @@
+---
+title: Networking Refresher
+updated: 2022-02-18 13:08:08Z
+created: 2022-02-18 07:45:29Z
+latitude: 60.20500000
+longitude: 24.64550000
+altitude: 0.0000
+completed?: no
+---
+
 # Networking Refresher
 
 **Topics to cover**

@@ -1,3 +1,13 @@
+---
+title: Effective Note Keeping
+updated: 2022-02-18 07:45:24Z
+created: 2022-02-17 21:55:59Z
+latitude: 60.20500000
+longitude: 24.64550000
+altitude: 0.0000
+completed?: no
+---
+
 ## Note Keeping Benefti
 
  Note keeping is important to be Ethical Hacker

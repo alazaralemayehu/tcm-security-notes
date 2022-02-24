@@ -1,3 +1,13 @@
+---
+title: A day in life of Ethical Hacker
+updated: 2022-02-17 21:55:44Z
+created: 2022-02-17 21:54:47Z
+latitude: 60.20500000
+longitude: 24.64550000
+altitude: 0.0000
+completed?: no
+---
+
 # A day in life of Ethical Hacker
 
  ## Why Pen-testing?
